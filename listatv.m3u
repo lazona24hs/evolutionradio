@@ -5,7 +5,7 @@
 #EXTINF:-1 tvg-id="0917" tvg-name="Canal 26" group-title="-",26TV
 http://181.233.180.4:8000/play/a01r/index.m3u8?hls
 
-#EXTINF:-1 group-title="-",La Nacion TV
+#EXTINF:-1 tvg-id="0904" tvg-name="La Nacion" group-title="-",La Nacion TV
 http://181.233.180.4:8000/play/a01s/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="0905" tvg-name="TN" group-title="-",TN HD
@@ -86,7 +86,7 @@ http://181.233.180.4:8000/play/a04y/index.m3u8?hls
 
 #EXTINF:-1 group-title="-",Cine.AR
 http://181.233.180.4:8000/play/a024/index.m3u8?hls
-#EXTINF:-1 group-title="-",Cinecanal HD
+#EXTINF:-1 tvg-id="1846" tvg-name="CineCanal" group-title="-",Cinecanal HD
 http://181.233.180.4:8000/play/a07b/index.m3u8?hls
 #EXTINF:-1 group-title="-",Cinemax
 http://181.233.180.4:8000/play/a04s/index.m3u8?hls
@@ -116,7 +116,7 @@ http://181.233.180.4:8000/play/a07h/index.m3u8?hls
 
 #EXTINF:-1 group-title="-",Discovery Science
 http://181.233.180.4:8000/play/a02k/index.m3u8?hls
-#EXTINF:-1 group-title="-",Discovery Theater HD
+#EXTINF:-1 tvg-id="0704" tvg-name="Discovery Theater" group-title="-",Discovery Theater HD
 http://181.233.180.4:8000/play/a02z/index.m3u8?hls
 #EXTINF:-1 group-title="-",Discovery Turbo
 http://181.233.180.4:8000/play/a01w/index.m3u8?hls
@@ -191,9 +191,9 @@ http://181.233.180.4:8000/play/a06z/index.m3u8?hls
 #EXTINF:-1 group-title="-",El Gourmet
 http://181.233.180.4:8000/play/a06w/index.m3u8?hls
 
-#EXTINF:-1 group-title="-",Metro
+#EXTINF:-1 tvg-id="0918" tvg-name="Metro" group-title="-",Metro
 http://181.233.180.4:8000/play/a02g/index.m3u8?hls
-#EXTINF:-1 group-title="-",Encuentro
+#EXTINF:-1 tvg-id="0920" tvg-name="Encuentro" group-title="-",Encuentro
 http://181.233.180.4:8000/play/a01m/index.m3u8?hls
 #EXTINF:-1 group-title="-",Europa Europa
 http://181.233.180.4:8000/play/a06v/index.m3u8?hls
@@ -236,11 +236,11 @@ http://181.233.180.4:8000/play/a021/index.m3u8?hls
 #EXTINF:-1 group-title="-",Warner Channel HD
 http://181.233.180.4:8000/play/a05e/index.m3u8?hls
 
-#EXTINF:-1 group-title="-",RAI Italia
+#EXTINF:-1 tvg-id="0220" tvg-name="RAI Italia" group-title="-",RAI Italia
 http://181.233.180.4:8000/play/a02p/index.m3u8?hls
 #EXTINF:-1 group-title="-",RT en Espanol
 http://181.233.180.4:8000/play/a0ac/index.m3u8?hls
-#EXTINF:-1 group-title="-",TVE
+#EXTINF:-1 tvg-id="0218" tvg-name="TVE" group-title="-",TVE
 http://181.233.180.4:8000/play/a072/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="0936" tvg-name="Ciudad Magazine" group-title="-",ciudad magazine
