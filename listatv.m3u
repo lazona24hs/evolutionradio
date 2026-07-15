@@ -166,6 +166,8 @@ http://181.233.180.4:8000/play/a02j/index.m3u8?hls
 #EXTINF:-1 tvg-id="0534" tvg-name="Canal de la Música" group-title="Musica", Canal de la Música
 https://g1.mc-slo.transport.edge-access.net/b08/ngrp:CM_CanaldelaMusica-100044_all/Playlist.m3u8?sense=true
 
+#EXTINF:-1 group-title="-",Nick Music
+http://190.108.83.69:8000/play/a00l/index.m3u8
 #EXTINF:-1 group-title="-",Quiero Musica
 http://181.233.180.4:8000/play/a02n/index.m3u8?hls
 #EXTINF:-1 group-title="-",HTV
